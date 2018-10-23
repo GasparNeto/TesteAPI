@@ -68,8 +68,8 @@ public class api {
 
     /*
         TOKEN = eyJhbGciOiJIUzI1NiJ9.eyAiZW1haWwiOiAidGFkZXVAbWV0cmUiLCAic2VuaGEiOiAiMTIzIiB9.qNL0Uz4N52qqRy-ssa_VnwWTT8VAh_eew61sSMSYhsQ
-        JSON ={"nomeFantasia": "gasparzinho","dataCadastro": "2018-10-22T00:00:00.000Z","limite": 100.5,"idade": 18}
-        URL teste = http://localhost:8080/TesteAPI/webresources/saveCliente/eyJhbGciOiJIUzI1NiJ9.eyAiZW1haWwiOiAidGFkZXVAbWV0cmUiLCAic2VuaGEiOiAiMTIzIiB9.qNL0Uz4N52qqRy-ssa_VnwWTT8VAh_eew61sSMSYhsQ/{"nomeFantasia": "gasparzinho","dataCadastro": "2018-10-22T00:00:00.000Z","limite": 100.5,"idade": 18}
+        JSON ={"nomeFantasia": "gaspar","dataCadastro": "2018-10-22T00:00:00.000Z","limite": 100.5,"idade": 18}
+        URL teste = http://localhost:8080/TesteAPI/webresources/saveCliente/eyJhbGciOiJIUzI1NiJ9.eyAiZW1haWwiOiAidGFkZXVAbWV0cmUiLCAic2VuaGEiOiAiMTIzIiB9.qNL0Uz4N52qqRy-ssa_VnwWTT8VAh_eew61sSMSYhsQ/{"nomeFantasia": "gaspar","dataCadastro": "2018-10-22T00:00:00.000Z","limite": 100.5,"idade": 18}
     */
     //
     @GET
